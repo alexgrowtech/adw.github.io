@@ -1,5 +1,5 @@
 const apiKey = "AIzaSyA1odmkSTDP1wqMuNxS1UGM9F_qtY2WluY"
-const projectId = "YOUR_PROJECT_ID";
+const projectId = "hip-service-392409";
 
 const input = document.getElementById("input");
 const button = document.getElementById("button");
